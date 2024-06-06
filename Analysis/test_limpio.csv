@@ -1,0 +1,392 @@
+laptop_ID,Company,Product,TypeName,Inches,ScreenResolution,Cpu,Ram,Memory,Gpu,OpSys,Weight
+1098,HP,Other,Ultrabook,13.3,4K,i7,16,SSD,Integrated,Windows 10,1.3
+330,Acer,Other,Notebook,15.6,HD,Other,8,SSD,Dedicated,Windows 10,2.2
+1260,Acer,Other,Notebook,15.6,HD,i3,4,HDD,Integrated,Linux,2.4
+1137,HP,Other,Notebook,14.0,Full HD,i5,8,SSD,Integrated,Windows 7,1.43
+1015,HP,Other,Notebook,13.3,Full HD,i5,8,SSD,Integrated,Windows 10,1.34
+1220,Dell,Other,2 in 1 Convertible,15.6,Full HD,i7,16,SSD,Integrated,Windows 10,2.0
+787,Razer,Other,Gaming,14.0,Full HD,i7,16,SSD,Dedicated,Windows 10,1.95
+841,Asus,Other,Notebook,15.6,Full HD,i5,4,HDD,Dedicated,Linux,2.1
+1081,Asus,Other,Gaming,17.3,Full HD,i7,64,SSD,Dedicated,Windows 10,3.58
+701,Lenovo,Other,2 in 1 Convertible,14.0,Other,i7,8,SSD,Integrated,Windows 10,1.42
+528,HP,Other,Ultrabook,13.3,Full HD,i7,8,SSD,Integrated,Windows 10,1.32
+694,HP,Other,Notebook,15.6,HD,i5,4,HDD,Dedicated,Windows 10,1.86
+1135,Vero,Other,Notebook,13.3,Full HD,Other,4,Other,Integrated,Windows 10,1.35
+548,Dell,Other,Notebook,14.0,Full HD,i3,4,SSD,Integrated,Windows 10,1.6
+870,Lenovo,Other,Notebook,15.6,Full HD,i3,4,HDD,Integrated,No OS,2.2
+958,Lenovo,Other,2 in 1 Convertible,11.3,Full HD,Other,8,SSD,Integrated,Windows 10,1.1
+567,Acer,Other,2 in 1 Convertible,11.6,Full HD,Other,4,Other,Integrated,Windows 10,1.25
+1162,HP,Other,2 in 1 Convertible,13.3,Other,i7,8,SSD,Integrated,Windows 10,1.48
+115,Lenovo,Other,2 in 1 Convertible,13.3,Full HD,i5,8,SSD,Integrated,Windows 10,1.37
+1128,HP,Other,Ultrabook,13.3,Full HD,i7,8,SSD,Integrated,Windows 10,1.16
+819,HP,Other,Gaming,17.3,Full HD,i7,12,HDD,Dedicated,Windows 10,3.74
+1125,HP,Other,Notebook,13.3,Other,Other,8,SSD,Integrated,Windows 10,1.16
+1229,Asus,Other,Notebook,15.6,Full HD,i7,16,Hybrid,Dedicated,Windows 10,2.2
+117,Dell,XPS 13,Ultrabook,13.3,Full HD,i5,8,SSD,Integrated,Windows 10,1.21
+1232,Asus,Other,Gaming,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,2.9
+428,Chuwi,Other,Notebook,12.3,Other,Other,6,Other,Integrated,Windows 10,1.4
+643,Asus,Other,Notebook,15.6,Full HD,i5,8,HDD,Dedicated,Windows 10,1.99
+1269,HP,Other,Notebook,15.6,HD,Other,4,HDD,Dedicated,Windows 10,1.86
+396,Asus,Other,Gaming,17.3,Full HD,i7,8,HDD,Dedicated,Windows 10,3.0
+566,Dell,Other,Notebook,15.6,HD,i3,4,HDD,Dedicated,Windows 10,2.18
+1009,Asus,Other,Notebook,13.3,Other,i5,8,SSD,Integrated,Windows 10,1.4
+1032,Toshiba,Other,Notebook,14.0,Full HD,i5,8,SSD,Integrated,Windows 10,1.47
+1079,MSI,Other,Gaming,15.6,Full HD,i7,16,Hybrid,Dedicated,Windows 10,1.8
+792,Lenovo,Other,Notebook,15.6,HD,Other,8,HDD,Integrated,No OS,2.2
+629,Dell,Inspiron 5570,Notebook,15.6,Full HD,i5,4,HDD,Dedicated,Windows 10,2.2
+397,Asus,Other,Gaming,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,3.0
+28,Dell,Inspiron 5570,Notebook,15.6,Full HD,i5,8,SSD,Dedicated,Windows 10,2.2
+329,HP,ProBook 450,Notebook,15.6,HD,i7,8,HDD,Integrated,Windows 10,2.1
+982,Dell,Other,Gaming,17.3,Full HD,i7,32,Hybrid,Dedicated,Windows 10,4.42
+500,Acer,Other,Notebook,15.6,HD,Other,8,HDD,Dedicated,Windows 10,2.2
+815,Toshiba,Other,Notebook,15.6,HD,i5,4,HDD,Integrated,Windows 10,2.1
+122,Asus,Other,Notebook,15.6,Full HD,i7,8,SSD,Dedicated,Windows 10,1.7
+857,Asus,Other,Ultrabook,13.3,Full HD,i5,8,SSD,Dedicated,Windows 10,1.45
+1230,MSI,Other,Gaming,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,2.43
+342,Dell,Other,Ultrabook,15.6,Full HD,i5,8,Hybrid,Dedicated,Windows 10,1.9
+219,Huawei,Other,Ultrabook,13.0,Other,i7,8,SSD,Integrated,Windows 10,1.05
+554,Lenovo,Other,Notebook,15.6,Full HD,i5,4,HDD,Integrated,No OS,2.15
+243,Asus,Other,Gaming,17.3,Full HD,i7,32,Hybrid,Dedicated,Windows 10,4.7
+362,Lenovo,Other,Notebook,15.6,HD,Other,4,HDD,Integrated,No OS,2.2
+549,HP,Other,Ultrabook,13.3,Other,i7,8,SSD,Integrated,Windows 10,1.34
+865,Asus,Other,Notebook,15.6,Full HD,i7,8,SSD,Dedicated,Windows 10,2.3
+273,HP,Other,Notebook,17.3,Full HD,i7,8,HDD,Dedicated,Windows 10,2.5
+866,Dell,Latitude 5580,Notebook,15.6,Full HD,i5,8,SSD,Integrated,Windows 10,1.9
+1105,Dell,Other,Notebook,15.6,HD,Pentium,4,HDD,Integrated,Linux,2.2
+1082,Dell,Other,2 in 1 Convertible,13.3,Full HD,i7,8,SSD,Integrated,Windows 10,1.62
+173,HP,Other,Notebook,13.3,Full HD,i5,4,HDD,Integrated,Windows 10,1.49
+928,Lenovo,Other,Notebook,13.3,Full HD,i5,4,SSD,Integrated,Windows 10,1.44
+1318,Lenovo,Other,Notebook,14.0,HD,Other,2,Other,Integrated,Windows 10,1.5
+365,Dell,Other,Notebook,14.0,Full HD,i5,8,SSD,Integrated,Windows 10,1.36
+455,MSI,Other,Gaming,15.6,Full HD,i5,8,SSD,Dedicated,Windows 10,2.2
+1148,HP,Other,Ultrabook,15.6,Full HD,i7,8,SSD,Integrated,Windows 10,1.84
+72,Microsoft,Other,Ultrabook,13.5,Other,i5,4,SSD,Integrated,Windows 10 S,1.252
+740,HP,Other,Notebook,15.6,Full HD,Other,6,Hybrid,Dedicated,Windows 10,2.1
+509,Lenovo,Other,2 in 1 Convertible,13.9,Full HD,i5,8,SSD,Integrated,Windows 10,1.4
+1033,HP,Other,Notebook,14.0,Full HD,i7,8,SSD,Integrated,Windows 10,1.43
+264,Lenovo,Other,2 in 1 Convertible,15.6,Full HD,i7,8,SSD,Dedicated,Windows 10,2.0
+608,HP,ProBook 450,Notebook,15.6,HD,i3,4,HDD,Integrated,Windows 10,2.1
+592,MSI,Other,Gaming,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,4.5
+962,Dell,Other,Notebook,17.3,Other,i3,4,HDD,Dedicated,Windows 10,2.36
+820,MSI,Other,Gaming,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,2.9
+285,Lenovo,Other,Notebook,17.3,Other,i7,6,Hybrid,Dedicated,Windows 10,2.8
+302,Dell,Other,Workstation,17.3,Full HD,i7,16,SSD,Dedicated,Windows 10,3.42
+880,Dell,Other,Workstation,15.6,Full HD,i7,8,HDD,Dedicated,Windows 10,2.23
+226,Lenovo,Other,2 in 1 Convertible,14.0,Full HD,i5,8,SSD,Integrated,Windows 10,1.74
+486,Toshiba,Other,Notebook,13.3,Full HD,i5,8,SSD,Integrated,Windows 10,1.05
+536,Dell,Latitude 5580,Notebook,15.6,Full HD,i5,8,SSD,Integrated,Windows 10,1.9
+503,Lenovo,Other,Notebook,15.6,Full HD,i7,8,SSD,Integrated,Windows 10,2.17
+979,Dell,Inspiron 3567,Notebook,15.6,HD,i3,4,HDD,Dedicated,Linux,2.25
+926,HP,ProBook 450,Notebook,15.6,Full HD,i7,8,SSD,Dedicated,Windows 10,2.04
+193,Dell,Other,Notebook,17.3,Full HD,i7,8,Hybrid,Dedicated,Windows 10,2.8
+837,Acer,Other,Netbook,11.6,HD,Other,4,Other,Integrated,Chrome OS,1.35
+577,HP,Other,Workstation,17.3,Other,i5,8,HDD,Dedicated,Windows 10,3.14
+386,HP,Other,Gaming,17.3,Full HD,i7,8,Hybrid,Dedicated,Windows 10,3.35
+943,HP,Other,Notebook,14.0,HD,i5,4,HDD,Integrated,Windows 10,1.95
+300,Lenovo,Other,Gaming,15.6,Full HD,i7,8,HDD,Dedicated,Windows 10,3.2
+465,Microsoft,Other,Ultrabook,13.5,Other,i7,8,SSD,Integrated,Windows 10 S,1.25
+411,MSI,Other,Gaming,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,2.8
+534,Lenovo,Other,Notebook,15.6,HD,i3,8,HDD,Dedicated,No OS,2.2
+744,HP,Other,Workstation,15.6,Full HD,i7,16,SSD,Dedicated,Windows 10,2.6
+261,HP,Other,Notebook,15.6,HD,Other,8,SSD,Dedicated,Windows 10,1.91
+423,Dell,Other,Notebook,13.3,HD,i3,4,SSD,Integrated,Windows 10,1.65
+652,Acer,Other,Notebook,15.6,HD,i3,4,HDD,Integrated,Windows 10,2.4
+688,MSI,Other,Gaming,15.6,Full HD,i5,8,SSD,Dedicated,Windows 10,2.2
+1187,MSI,Other,Gaming,15.6,Full HD,i7,8,HDD,Dedicated,Windows 10,2.2
+321,HP,Other,2 in 1 Convertible,13.3,4K,i7,16,SSD,Integrated,Windows 10,1.29
+283,Lenovo,Other,Notebook,17.3,Other,i3,4,HDD,Integrated,Windows 10,2.8
+922,LG,Other,Ultrabook,14.0,Full HD,i7,8,SSD,Integrated,Windows 10,0.98
+77,Asus,Other,Gaming,15.6,Full HD,i7,8,HDD,Dedicated,Windows 10,2.2
+1053,HP,Other,Notebook,14.0,Full HD,i5,8,SSD,Integrated,Windows 10,1.64
+739,Dell,Inspiron 3567,Notebook,15.6,HD,i5,12,HDD,Integrated,Windows 10,2.25
+649,HP,Other,Notebook,17.0,Other,Other,8,HDD,Dedicated,Windows 10,2.6
+69,HP,Other,Notebook,14.0,HD,Other,4,SSD,Integrated,Windows 10,1.44
+46,Apple,Other,Ultrabook,13.3,Other,i5,8,SSD,Integrated,macOS,1.37
+1116,Dell,Other,Ultrabook,12.5,HD,i3,4,SSD,Integrated,Windows 7,1.5
+1176,Lenovo,Other,Notebook,15.6,Full HD,i5,8,Other,Dedicated,Windows 10,2.5
+1279,Asus,Other,Ultrabook,13.3,Full HD,Other,8,SSD,Integrated,Windows 10,1.2
+361,Dell,Inspiron 5570,Notebook,15.6,Full HD,i7,8,Hybrid,Dedicated,Windows 10,2.02
+284,Lenovo,Other,Notebook,17.3,Full HD,i7,8,HDD,Dedicated,No OS,2.8
+628,Lenovo,Other,Notebook,14.0,Full HD,i5,8,SSD,Integrated,Windows 7,1.65
+521,Xiaomi,Other,Notebook,15.6,Full HD,i7,16,SSD,Dedicated,No OS,1.95
+830,Toshiba,Other,Ultrabook,14.0,HD,i5,4,SSD,Integrated,Windows 10,1.25
+745,Dell,Other,2 in 1 Convertible,13.3,Full HD,i5,8,HDD,Integrated,Windows 10,1.55
+669,Lenovo,Other,Notebook,15.6,HD,Other,4,HDD,Integrated,Windows 10,2.2
+318,Acer,Other,Notebook,15.6,Full HD,Other,8,SSD,Dedicated,Windows 10,2.23
+103,HP,Other,Notebook,15.6,Full HD,i7,8,SSD,Dedicated,Windows 10,1.91
+408,Asus,Other,Gaming,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,2.9
+74,Dell,Inspiron 5570,Notebook,15.6,Full HD,i7,8,SSD,Dedicated,Windows 10,2.2
+627,HP,Other,Notebook,14.0,HD,i5,8,SSD,Integrated,Windows 10,2.31
+457,HP,Other,Notebook,15.6,HD,i5,8,SSD,Integrated,Windows 10,1.91
+780,Samsung,Other,2 in 1 Convertible,15.0,Full HD,i7,16,SSD,Dedicated,Windows 10,1.71
+55,Acer,Other,Notebook,15.6,HD,i3,4,HDD,Integrated,Windows 10,2.4
+799,Asus,Other,Gaming,15.6,Full HD,i7,8,Hybrid,Dedicated,Windows 10,2.24
+1297,Lenovo,Other,Notebook,15.6,Full HD,i7,8,HDD,Dedicated,Windows 10,2.6
+209,Lenovo,Legion Y520-15IKBN,Gaming,15.6,Full HD,i7,16,SSD,Dedicated,No OS,2.4
+893,Asus,Other,Notebook,14.1,HD,Other,4,Other,Integrated,Windows 10,1.65
+1089,Lenovo,Other,Ultrabook,12.5,Full HD,i7,8,SSD,Integrated,Windows 10,1.3
+1154,MSI,Other,Gaming,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,3.78
+854,HP,Other,Ultrabook,14.0,Full HD,i7,8,SSD,Integrated,Windows 7,1.54
+1217,MSI,Other,Gaming,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,2.43
+220,Dell,Other,Ultrabook,13.3,Full HD,i7,8,SSD,Dedicated,Windows 10,1.4
+748,Dell,Other,Notebook,15.6,Full HD,i7,8,Hybrid,Dedicated,Windows 10,2.0
+724,Dell,Latitude 5580,Notebook,15.6,Full HD,i5,8,SSD,Integrated,Windows 10,1.9
+725,Lenovo,Other,Notebook,15.6,HD,Other,4,HDD,Dedicated,Windows 10,2.19
+940,Lenovo,Other,Ultrabook,12.5,Full HD,i7,8,SSD,Integrated,Windows 10,1.36
+1050,HP,ProBook 450,Notebook,15.6,HD,i5,4,HDD,Integrated,Windows 10,2.04
+999,Dell,Inspiron 3567,Notebook,15.6,HD,i5,4,HDD,Dedicated,Windows 10,2.25
+507,Asus,Other,Netbook,11.6,HD,Other,4,Other,Integrated,Windows 10 S,1.2
+790,Asus,Other,Gaming,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,4.3
+1046,MSI,Other,Gaming,17.3,Full HD,i7,8,Hybrid,Dedicated,Windows 10,2.7
+43,Asus,Other,Notebook,15.6,HD,i5,8,HDD,Dedicated,Linux,2.3
+439,Lenovo,Other,Notebook,14.0,Full HD,i3,4,SSD,Integrated,Windows 10,1.7
+583,Toshiba,Other,Ultrabook,14.0,Full HD,i7,16,SSD,Integrated,Windows 10,1.24
+496,Asus,Other,Ultrabook,12.5,Full HD,i7,16,SSD,Integrated,Windows 10,0.91
+343,HP,Other,Notebook,15.6,Full HD,i5,8,SSD,Integrated,Windows 10,1.84
+953,Dell,Other,Gaming,17.3,Other,i7,16,Hybrid,Dedicated,Windows 10,4.36
+872,HP,Other,Notebook,15.6,Full HD,i5,8,SSD,Dedicated,Windows 10,1.84
+920,Lenovo,Other,Notebook,15.6,Full HD,i5,8,Hybrid,Dedicated,Windows 10,2.6
+57,HP,Other,Notebook,15.6,Full HD,i3,4,SSD,Integrated,Windows 10,1.91
+949,HP,Other,Netbook,12.5,Full HD,i5,8,SSD,Integrated,Windows 10,1.26
+715,Lenovo,Other,Workstation,15.6,Full HD,i7,16,SSD,Dedicated,Windows 7,2.18
+1044,HP,Other,Notebook,14.0,HD,i5,4,SSD,Integrated,Windows 10,1.64
+1319,HP,Other,Notebook,15.6,HD,i7,6,HDD,Dedicated,Windows 10,2.19
+1042,Dell,XPS 13,Ultrabook,13.3,Other,i5,8,SSD,Integrated,Windows 10,1.29
+1253,HP,Other,Notebook,15.6,Full HD,i3,4,HDD,Integrated,Windows 10,2.1
+729,HP,Other,2 in 1 Convertible,13.3,HD,i5,8,SSD,Integrated,Windows 10,1.58
+1271,Lenovo,Other,Notebook,14.0,Full HD,i5,8,SSD,Integrated,Windows 10,1.9
+18,Apple,Other,Ultrabook,15.4,Other,i7,16,SSD,Dedicated,macOS,1.83
+382,Lenovo,Other,Netbook,11.6,HD,Other,4,SSD,Integrated,Windows 10,1.59
+53,HP,Other,Notebook,15.6,Full HD,Other,4,SSD,Dedicated,Windows 10,1.86
+1203,Asus,Other,Gaming,15.6,Full HD,i7,8,Hybrid,Dedicated,Windows 10,2.591
+766,HP,Other,Workstation,15.6,Full HD,i7,8,SSD,Dedicated,Windows 7,2.59
+19,Lenovo,Other,Notebook,15.6,Full HD,i3,8,HDD,Dedicated,No OS,2.2
+666,Lenovo,Other,Gaming,15.6,Full HD,i7,8,Hybrid,Dedicated,Windows 10,3.31
+1163,HP,Other,Workstation,15.6,Full HD,i7,8,SSD,Dedicated,Windows 7,2.0
+845,Asus,Other,Gaming,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,2.9
+441,Lenovo,Other,Notebook,15.6,Full HD,i7,16,SSD,Dedicated,Windows 10,2.5
+1027,HP,Other,Ultrabook,14.0,Full HD,i7,8,SSD,Integrated,Windows 10,1.54
+456,Microsoft,Other,Ultrabook,13.5,Other,i7,16,SSD,Integrated,Windows 10 S,1.25
+1293,Asus,Other,Ultrabook,13.3,Full HD,Other,8,SSD,Integrated,Windows 10,1.2
+620,Dell,Inspiron 3567,Notebook,15.6,HD,i3,4,HDD,Integrated,Linux,2.25
+356,Dell,Other,Notebook,15.6,4K,i7,16,SSD,Dedicated,Windows 10,2.06
+406,Lenovo,Other,Ultrabook,14.0,Other,i7,16,SSD,Integrated,Windows 10,1.13
+840,Lenovo,Other,Ultrabook,14.0,Other,i7,16,SSD,Integrated,Windows 10,1.1
+70,Lenovo,Other,Notebook,15.6,Full HD,i5,4,HDD,Integrated,Windows 10,1.9
+493,Dell,Other,Workstation,15.6,Full HD,i7,16,SSD,Dedicated,Windows 10,2.17
+684,Asus,Other,Ultrabook,14.0,Full HD,i5,8,SSD,Integrated,Windows 10,1.1
+290,Acer,Other,Notebook,15.6,Full HD,i7,12,HDD,Integrated,Windows 10,2.15
+438,Lenovo,Other,Notebook,13.3,Full HD,i7,8,SSD,Integrated,Windows 10,1.4
+913,Asus,Other,Gaming,17.3,Full HD,i7,32,SSD,Dedicated,Windows 10,3.58
+1087,HP,Other,Ultrabook,12.5,Full HD,i5,8,SSD,Integrated,Windows 7,1.26
+134,Dell,Inspiron 3567,Notebook,15.6,Full HD,i3,4,HDD,Dedicated,Windows 10,2.2
+917,LG,Other,Ultrabook,15.6,Full HD,i7,16,SSD,Integrated,Windows 10,1.08
+303,Lenovo,Other,Notebook,15.6,Full HD,Other,6,HDD,Dedicated,Windows 10,2.4
+164,Asus,Other,Notebook,15.6,HD,Other,4,HDD,Dedicated,Windows 10,2.03
+136,Acer,Other,Notebook,15.6,Full HD,i3,4,SSD,Dedicated,Windows 10,2.2
+1267,Dell,XPS 13,2 in 1 Convertible,13.3,Other,i5,8,SSD,Integrated,Windows 10,1.24
+974,Toshiba,Other,Notebook,13.3,Full HD,i5,8,SSD,Integrated,Windows 10,1.2
+675,HP,Other,Notebook,15.6,Full HD,i7,8,HDD,Dedicated,Windows 10,2.1
+447,Lenovo,Other,Notebook,17.3,Other,Other,8,HDD,Dedicated,Windows 10,2.8
+770,Dell,Other,Ultrabook,12.5,Full HD,i7,16,SSD,Integrated,Windows 10,1.18
+931,MSI,Other,Gaming,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,2.7
+894,Lenovo,Other,Notebook,15.6,Full HD,i7,8,HDD,Dedicated,Windows 10,2.2
+1143,Lenovo,Legion Y520-15IKBN,Gaming,15.6,Full HD,i5,8,Hybrid,Dedicated,No OS,2.4
+463,Dell,Other,Notebook,17.3,Full HD,i7,8,HDD,Dedicated,Windows 10,4.42
+152,Acer,Other,Notebook,15.6,HD,i3,4,HDD,Integrated,Windows 10,2.1
+547,Dell,XPS 13,Ultrabook,13.3,Other,i7,8,SSD,Integrated,Windows 10,1.2
+476,Lenovo,Other,Ultrabook,14.0,Other,i7,12,SSD,Integrated,Windows 10,1.4
+401,Dell,Other,Notebook,15.6,Full HD,i7,8,SSD,Dedicated,Linux,2.33
+804,Lenovo,Other,2 in 1 Convertible,14.0,Other,i5,8,SSD,Integrated,Windows 10,1.42
+293,Lenovo,Legion Y520-15IKBN,Gaming,15.6,Full HD,i7,16,Hybrid,Dedicated,Windows 10,2.5
+368,Lenovo,Other,Notebook,17.3,Other,i5,6,Hybrid,Dedicated,Windows 10,2.8
+481,Asus,Other,Notebook,15.6,4K,i7,12,Hybrid,Integrated,Windows 10,2.06
+120,Dell,Other,Notebook,15.6,Full HD,i7,8,Hybrid,Dedicated,Windows 10,2.16
+278,Lenovo,Other,2 in 1 Convertible,14.0,Other,i7,16,SSD,Integrated,Windows 10,1.36
+287,Lenovo,Legion Y520-15IKBN,Gaming,15.6,Full HD,i5,8,SSD,Dedicated,Windows 10,2.5
+1282,Dell,Other,Notebook,15.6,HD,Other,2,HDD,Integrated,Windows 10,2.2
+696,HP,Other,Notebook,17.3,Full HD,Other,6,HDD,Dedicated,Windows 10,2.65
+141,Lenovo,Other,Notebook,15.6,Full HD,i5,4,HDD,Dedicated,No OS,2.2
+206,Acer,Other,Notebook,15.6,Full HD,i7,8,HDD,Dedicated,Windows 10,2.23
+637,Asus,Other,Ultrabook,14.0,Full HD,i7,16,SSD,Integrated,Windows 10,1.1
+651,Asus,Other,Gaming,15.6,Full HD,i7,8,HDD,Dedicated,No OS,2.5
+855,Dell,Other,Notebook,15.6,Full HD,i7,4,SSD,Dedicated,Windows 10,2.18
+504,HP,Other,Notebook,14.0,Full HD,i7,8,SSD,Integrated,Windows 10,1.48
+232,Asus,Other,Notebook,15.6,Full HD,i5,8,SSD,Dedicated,Windows 10,2.0
+697,Lenovo,Other,Notebook,15.6,HD,Other,4,HDD,Integrated,Windows 10,2.1
+20,Dell,XPS 13,Ultrabook,13.3,Full HD,i5,8,SSD,Integrated,Windows 10,1.22
+1185,Lenovo,Other,Notebook,15.6,Full HD,i3,4,HDD,Dedicated,Windows 10,2.2
+131,Dell,Other,Notebook,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,2.8
+35,Apple,Other,Ultrabook,13.3,Other,i5,8,Other,Integrated,Mac OS X,1.35
+282,Acer,Other,Notebook,15.6,Full HD,i7,8,HDD,Dedicated,Windows 10,2.2
+612,MSI,Other,Gaming,15.6,4K,i7,16,Hybrid,Dedicated,Windows 10,1.8
+62,Dell,Other,Ultrabook,14.0,Full HD,i5,8,SSD,Integrated,Windows 10,1.7
+378,Asus,Other,Gaming,17.3,Full HD,Other,16,Hybrid,Dedicated,Windows 10,3.25
+184,Dell,Inspiron 5570,Notebook,15.6,Full HD,i7,16,Hybrid,Dedicated,Linux,2.02
+247,Asus,Other,Notebook,17.3,Full HD,i7,8,Hybrid,Dedicated,No OS,2.69
+1101,HP,Other,Workstation,15.6,Full HD,i7,8,SSD,Dedicated,Windows 7,1.9
+34,Dell,XPS 13,Ultrabook,13.3,Other,i7,16,SSD,Integrated,Windows 10,1.2
+568,Lenovo,Other,Notebook,15.6,Full HD,i3,4,SSD,Integrated,Windows 10,2.05
+339,Lenovo,Other,Notebook,15.6,Full HD,i3,4,HDD,Integrated,Windows 10,1.85
+221,Lenovo,Other,Notebook,17.3,Other,i5,8,HDD,Dedicated,No OS,2.8
+901,HP,Other,Notebook,14.0,Full HD,i5,4,SSD,Integrated,Windows 10,1.95
+389,Lenovo,Other,Notebook,14.0,Full HD,i5,8,SSD,Dedicated,Windows 10,1.5
+1061,MSI,Other,Gaming,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,3.78
+244,Acer,Other,Gaming,15.6,Full HD,i5,8,SSD,Dedicated,Windows 10,2.5
+471,Lenovo,Other,Notebook,15.6,Full HD,i7,8,SSD,Dedicated,Windows 10,2.67
+40,HP,ProBook 450,Notebook,15.6,Full HD,i5,8,SSD,Dedicated,Windows 10,2.1
+764,Lenovo,Other,2 in 1 Convertible,13.3,Other,i5,8,SSD,Integrated,Windows 10,1.3
+178,HP,Other,Notebook,17.3,Full HD,i5,8,SSD,Dedicated,Windows 10,2.5
+23,HP,Other,Notebook,15.6,HD,Other,4,HDD,Dedicated,No OS,1.86
+1298,HP,Other,Notebook,15.6,Full HD,Other,6,Other,Dedicated,Windows 10,2.04
+1083,Dell,Other,Gaming,15.6,4K,i7,16,Hybrid,Dedicated,Windows 10,3.21
+581,Lenovo,Other,Notebook,15.6,Full HD,i5,4,HDD,Integrated,Windows 10,2.05
+1109,HP,Other,Netbook,12.5,HD,i5,4,SSD,Integrated,Windows 7,2.4
+75,MSI,Other,Gaming,17.3,Full HD,i5,8,Hybrid,Dedicated,Windows 10,2.7
+902,HP,Other,2 in 1 Convertible,13.3,Other,i7,16,SSD,Integrated,Windows 10,1.42
+660,Dell,XPS 13,Ultrabook,13.3,Full HD,i5,8,SSD,Integrated,Windows 10,1.2
+327,Asus,Other,Notebook,14.0,Full HD,i7,8,SSD,Integrated,Windows 10,2.0
+1062,Lenovo,Other,Gaming,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,4.6
+1076,Dell,Inspiron 3567,Notebook,15.6,Full HD,i5,4,HDD,Integrated,Windows 10,2.25
+1056,Toshiba,Other,Notebook,15.6,Full HD,i7,16,SSD,Dedicated,Windows 10,2.4
+590,Dell,Latitude 5580,Notebook,15.6,Full HD,i7,16,SSD,Dedicated,Windows 10,1.93
+930,HP,Other,Notebook,13.3,Full HD,i5,8,SSD,Integrated,Windows 10,1.49
+690,Dell,Other,Gaming,15.6,Full HD,i5,16,Hybrid,Dedicated,Windows 10,3.21
+529,Dell,Other,Notebook,14.0,Full HD,i5,8,SSD,Integrated,Windows 10,1.64
+1021,HP,Other,Ultrabook,14.0,Full HD,i7,8,SSD,Integrated,Windows 7,1.43
+1074,HP,ProBook 450,Notebook,15.6,Full HD,i7,8,SSD,Integrated,Windows 10,2.04
+900,Lenovo,Other,Notebook,17.3,Other,Other,4,HDD,Dedicated,Windows 10,2.8
+784,Asus,Other,2 in 1 Convertible,15.6,Full HD,i7,12,HDD,Dedicated,Windows 10,2.3
+665,Dell,Inspiron 5570,Notebook,15.6,Full HD,i7,16,Hybrid,Dedicated,Windows 10,2.2
+911,Dell,Latitude 5580,Notebook,15.6,Full HD,i5,8,HDD,Integrated,Windows 10,1.9
+480,Dell,Other,Ultrabook,13.3,Full HD,i5,8,SSD,Integrated,Windows 10,1.42
+735,Dell,Other,2 in 1 Convertible,13.3,Full HD,i3,4,HDD,Integrated,Windows 10,1.71
+1153,Dell,Other,Notebook,15.6,HD,i5,8,HDD,Dedicated,Windows 10,2.5
+942,Dell,Other,Notebook,15.6,HD,i5,4,HDD,Integrated,Windows 10,2.18
+418,Lenovo,Other,Ultrabook,14.0,Other,i7,8,SSD,Dedicated,Windows 10,1.7
+22,Lenovo,Legion Y520-15IKBN,Gaming,15.6,Full HD,i5,8,Hybrid,Dedicated,Windows 10,2.5
+991,Asus,Other,2 in 1 Convertible,15.6,4K,i7,16,Hybrid,Dedicated,Windows 10,2.3
+477,HP,Other,2 in 1 Convertible,13.3,4K,i7,8,SSD,Integrated,Windows 10,1.29
+161,Dell,Other,2 in 1 Convertible,15.6,Full HD,i7,8,SSD,Integrated,Windows 10,1.56
+824,Lenovo,Other,Ultrabook,14.0,Full HD,i7,8,SSD,Integrated,Windows 10,1.32
+848,Asus,Other,Notebook,15.6,Full HD,i5,8,HDD,Integrated,Windows 10,2.3
+641,Lenovo,Other,Notebook,15.6,Full HD,i3,4,HDD,Dedicated,Windows 10,2.2
+760,HP,Other,Notebook,15.6,Full HD,i5,8,SSD,Integrated,Windows 10,1.84
+732,MSI,Other,Gaming,17.3,Full HD,i7,8,Hybrid,Dedicated,Windows 10,2.7
+598,Lenovo,Other,Notebook,15.6,Full HD,Other,12,SSD,Dedicated,Windows 10,2.2
+591,Dell,Other,Netbook,11.6,HD,Other,4,Other,Integrated,Chrome OS,1.26
+393,Dell,Other,Workstation,15.6,Full HD,i5,8,HDD,Dedicated,Windows 10,2.23
+1234,Acer,Other,Notebook,17.3,Other,i3,4,HDD,Dedicated,Windows 10,3.3
+124,MSI,Other,Gaming,15.6,Full HD,i7,16,Hybrid,Dedicated,Windows 10,1.8
+1197,HP,ProBook 450,Notebook,15.6,HD,i3,4,HDD,Integrated,Windows 10,2.07
+524,Asus,Other,Gaming,15.6,Full HD,i7,24,SSD,Dedicated,Windows 10,2.24
+532,Lenovo,Other,Notebook,14.0,Full HD,i5,8,SSD,Integrated,Windows 7,2.02
+108,HP,Other,Notebook,14.0,Full HD,i5,6,SSD,Dedicated,Windows 10,1.58
+379,Lenovo,Other,Notebook,17.3,Other,Other,4,SSD,Dedicated,Windows 10,2.6
+352,HP,Other,Notebook,14.0,HD,Other,2,Other,Integrated,Windows 10,1.44
+1235,Lenovo,Other,Notebook,17.3,Other,i5,8,HDD,Integrated,No OS,2.8
+350,Dell,XPS 13,Ultrabook,13.3,Full HD,i7,8,SSD,Integrated,Windows 10,1.2
+78,Lenovo,Other,Notebook,15.6,Full HD,i5,8,HDD,Integrated,No OS,2.2
+402,HP,Other,Ultrabook,15.6,Full HD,Other,4,SSD,Dedicated,Windows 10,1.91
+923,Dell,Other,Notebook,14.0,Full HD,i5,8,SSD,Integrated,Windows 10,1.6
+44,Acer,Other,Notebook,15.6,Full HD,i5,4,SSD,Integrated,Windows 10,2.2
+1072,Dell,Other,2 in 1 Convertible,13.3,Full HD,i7,12,SSD,Integrated,Windows 10,1.6
+61,Dell,Other,Notebook,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,2.8
+569,HP,Other,Ultrabook,13.3,Other,Other,16,SSD,Integrated,Windows 10,1.16
+1221,Dell,XPS 13,Ultrabook,13.3,Other,i7,16,SSD,Integrated,Windows 10,1.2
+179,Dell,Inspiron 3567,Notebook,15.6,HD,i3,8,HDD,Integrated,Windows 10,2.3
+461,Dell,Inspiron 5570,Notebook,15.6,Full HD,i7,8,Hybrid,Dedicated,Windows 10,2.36
+990,Lenovo,Other,Notebook,14.0,HD,i5,4,Other,Integrated,Windows 7,1.7
+604,Lenovo,Other,Notebook,14.0,Full HD,i5,8,SSD,Integrated,Windows 10,1.7
+305,Asus,Other,Notebook,14.0,HD,i3,4,SSD,Integrated,Windows 10,1.3
+385,Acer,Other,Notebook,15.6,Full HD,i7,8,HDD,Dedicated,Linux,2.4
+1008,Dell,Other,2 in 1 Convertible,13.3,Full HD,i5,8,SSD,Integrated,Windows 10,1.68
+487,Dell,Other,Notebook,15.6,Full HD,i7,8,SSD,Dedicated,Windows 10,2.16
+1261,Dell,Other,2 in 1 Convertible,17.3,Full HD,i7,16,SSD,Dedicated,Windows 10,2.77
+146,Toshiba,Other,Notebook,15.6,HD,i5,4,HDD,Integrated,Windows 10,2.1
+606,Dell,Other,Workstation,15.6,Full HD,i7,8,SSD,Dedicated,Windows 10,2.06
+1257,Lenovo,Other,Notebook,13.3,Full HD,i7,16,SSD,Integrated,Windows 10,1.4
+475,HP,Other,Gaming,17.3,Full HD,i7,12,HDD,Dedicated,Windows 10,3.78
+761,Asus,Other,Notebook,15.6,HD,i5,4,HDD,Dedicated,No OS,2.45
+36,Lenovo,Other,Notebook,14.0,HD,Other,4,Other,Integrated,Windows 10,1.44
+1020,HP,Other,Notebook,14.0,Full HD,i5,4,SSD,Integrated,Windows 10,1.95
+113,Asus,Other,Ultrabook,15.6,Full HD,i7,16,Hybrid,Dedicated,Windows 10,1.5
+876,HP,Other,Notebook,15.6,Full HD,i5,4,HDD,Integrated,Windows 10,2.07
+1063,Asus,Other,Netbook,11.6,HD,Other,4,Other,Integrated,Chrome OS,1.2
+626,Acer,Other,2 in 1 Convertible,11.6,HD,Other,4,Other,Integrated,Chrome OS,1.25
+1086,HP,Other,Notebook,15.6,HD,i5,4,HDD,Integrated,Windows 10,2.31
+353,Dell,Other,Ultrabook,15.6,Full HD,i7,16,SSD,Integrated,Windows 10,1.88
+1068,Dell,XPS 13,Ultrabook,13.3,Other,i7,16,SSD,Integrated,Windows 10,1.2
+149,HP,Other,Ultrabook,12.5,4K,Other,8,SSD,Integrated,Windows 10,0.97
+246,Asus,Other,Notebook,17.3,Full HD,i7,8,Hybrid,Dedicated,Windows 10,2.1
+1010,HP,Other,Ultrabook,13.3,Full HD,i7,8,SSD,Integrated,Windows 10,1.11
+687,Acer,Other,Gaming,15.6,Full HD,i5,16,SSD,Dedicated,Windows 10,2.5
+1215,Asus,Other,Gaming,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,4.3
+495,Lenovo,Other,Ultrabook,12.5,Full HD,i7,16,SSD,Integrated,Windows 10,1.36
+1054,Lenovo,Other,2 in 1 Convertible,15.6,Full HD,i7,4,SSD,Integrated,Windows 10,1.8
+479,Google,Other,Ultrabook,12.3,Other,i5,8,SSD,Integrated,Chrome OS,1.1
+1248,Lenovo,Other,Netbook,12.5,Full HD,i7,16,SSD,Integrated,Windows 10,1.3
+331,Lenovo,Other,Notebook,14.0,HD,Other,4,Other,Integrated,Windows 10,1.44
+80,Acer,Other,Notebook,15.6,Full HD,i3,4,HDD,Dedicated,Windows 10,2.2
+1296,Dell,Other,Notebook,15.6,HD,Other,2,HDD,Integrated,Windows 10,2.2
+558,Dell,Latitude 5580,Notebook,15.6,Full HD,i5,8,SSD,Integrated,Windows 10,1.9
+778,Acer,Other,Notebook,15.6,HD,Pentium,4,HDD,Integrated,Linux,2.1
+757,Dell,Other,Notebook,14.0,HD,i5,8,SSD,Integrated,Windows 10,1.6
+324,Acer,Other,Notebook,11.6,HD,Pentium,4,Other,Integrated,Windows 10,1.4
+133,Dell,Other,Notebook,15.6,HD,i5,8,HDD,Dedicated,Windows 10,2.36
+597,Asus,Other,2 in 1 Convertible,15.6,HD,i5,8,HDD,Integrated,Windows 10,2.2
+413,Toshiba,Other,Ultrabook,13.3,Full HD,i7,16,SSD,Integrated,Windows 10,1.2
+661,MSI,Other,Gaming,15.6,Full HD,i7,8,Hybrid,Dedicated,Windows 10,2.2
+468,Acer,Other,Netbook,11.6,HD,Other,4,SSD,Integrated,Windows 10,1.4
+24,Dell,Other,2 in 1 Convertible,13.3,Full HD,i5,8,SSD,Integrated,Windows 10,1.62
+736,Dell,Other,Notebook,15.6,HD,i5,8,HDD,Dedicated,Linux,2.32
+229,Dell,Other,Gaming,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,4.42
+416,Lenovo,Other,Notebook,11.6,HD,Other,2,Other,Integrated,Windows 10,1.15
+1134,Asus,Other,Gaming,17.3,Full HD,i7,8,Hybrid,Dedicated,Windows 10,3.52
+808,Dell,Other,Notebook,15.6,Full HD,i3,8,SSD,Dedicated,Windows 10,2.0
+1209,Samsung,Other,2 in 1 Convertible,12.3,Other,Other,4,Other,Dedicated,Chrome OS,1.15
+1205,Acer,Other,Notebook,15.6,Full HD,i5,4,SSD,Dedicated,Windows 10,2.23
+102,HP,Other,Gaming,15.6,Full HD,i7,12,Hybrid,Dedicated,Windows 10,2.62
+600,Samsung,Other,Notebook,15.6,Full HD,i7,16,Hybrid,Dedicated,Windows 10,2.5
+622,Asus,Other,Gaming,17.3,Full HD,i7,8,Hybrid,Dedicated,Windows 10,3.0
+222,HP,Other,Notebook,14.0,Full HD,i7,8,SSD,Dedicated,Windows 10,1.63
+1088,HP,Other,Notebook,13.3,Full HD,i7,8,SSD,Integrated,Windows 10,1.49
+286,Dell,Inspiron 3567,Notebook,15.6,Full HD,i3,4,HDD,Dedicated,Linux,2.25
+868,HP,Other,2 in 1 Convertible,13.3,Full HD,i7,8,SSD,Integrated,Windows 10,1.28
+1188,HP,Other,Notebook,15.6,Full HD,i7,8,SSD,Integrated,Windows 10,1.96
+419,HP,Other,Notebook,15.6,Full HD,i3,4,HDD,Dedicated,Windows 10,2.1
+550,Acer,Other,Gaming,15.6,Full HD,i5,8,HDD,Dedicated,Linux,2.4
+237,Lenovo,Other,Gaming,15.6,Full HD,i7,16,Hybrid,Dedicated,Windows 10,3.2
+846,Toshiba,Other,Notebook,15.6,HD,i3,4,HDD,Integrated,Windows 10,2.0
+968,Lenovo,Other,Ultrabook,14.0,Full HD,i7,8,SSD,Integrated,Windows 10,1.7
+522,Asus,Other,Netbook,11.6,HD,Other,2,Other,Integrated,Windows 10,1.1
+827,Dell,Other,Gaming,17.3,Full HD,i7,16,Hybrid,Dedicated,Windows 10,4.36
+927,Acer,Other,Notebook,15.6,Full HD,i3,4,HDD,Integrated,Windows 10,2.4
+291,Lenovo,Other,Notebook,15.6,Full HD,i7,8,SSD,Integrated,Windows 10,1.95
+153,Dell,Other,Gaming,15.6,Full HD,i7,16,SSD,Dedicated,Windows 10,2.56
+137,HP,Other,Notebook,15.6,HD,i7,8,HDD,Integrated,Windows 10,2.05
+1315,Asus,Other,Notebook,15.6,HD,i7,4,HDD,Dedicated,Windows 10,2.2
+1204,Dell,Other,2 in 1 Convertible,15.6,Full HD,i7,16,SSD,Integrated,Windows 10,2.09
+874,Lenovo,Legion Y520-15IKBN,Gaming,15.6,Full HD,i5,8,HDD,Dedicated,No OS,2.5
+272,Lenovo,Other,Notebook,15.6,Full HD,i5,4,HDD,Integrated,No OS,2.2
+50,Asus,Other,Notebook,17.3,HD,Pentium,4,HDD,Dedicated,Windows 10,2.8
+546,Lenovo,Other,Notebook,14.0,Full HD,i7,8,SSD,Dedicated,Windows 10,1.87
+659,Acer,Other,Gaming,15.6,Full HD,i5,8,HDD,Dedicated,Linux,2.4
+1231,Dell,Other,2 in 1 Convertible,15.6,Full HD,i5,8,SSD,Integrated,Windows 10,2.191
+653,Lenovo,Other,Notebook,14.0,HD,Other,4,Other,Integrated,Windows 10,1.43
+1239,MSI,Other,Gaming,15.6,Full HD,i7,8,Hybrid,Dedicated,Windows 10,2.2
+223,Dell,Other,Ultrabook,14.0,Full HD,i5,8,SSD,Integrated,Windows 10,1.6
+737,HP,Other,Notebook,15.6,Full HD,Other,4,HDD,Dedicated,Windows 10,2.1
+621,Dell,Latitude 5580,Notebook,15.6,HD,i5,4,HDD,Integrated,Linux,1.93
+27,Apple,Other,Ultrabook,13.3,Other,i5,8,Other,Integrated,Mac OS X,1.35
+951,MSI,Other,Gaming,15.6,Full HD,i7,8,Hybrid,Dedicated,Windows 10,2.2
+1201,Acer,Other,Notebook,15.6,HD,Other,4,HDD,Integrated,Windows 10,2.1
+648,Lenovo,Legion Y520-15IKBN,Gaming,15.6,Full HD,i7,8,Hybrid,Dedicated,Windows 10,2.5
+826,HP,Other,Netbook,11.6,HD,Other,4,Other,Integrated,Chrome OS,1.23
+1133,Toshiba,Other,Ultrabook,13.3,Full HD,i7,16,SSD,Integrated,Windows 10,1.05
+1005,HP,Other,Notebook,15.6,Full HD,i3,4,Hybrid,Dedicated,Windows 10,2.1
+145,Lenovo,Legion Y520-15IKBN,Gaming,15.6,Full HD,i7,8,SSD,Dedicated,No OS,2.4
+1195,Lenovo,Other,Gaming,15.6,Full HD,i7,16,SSD,Dedicated,Windows 10,3.31
+1070,HP,Other,Notebook,15.6,HD,i5,4,HDD,Integrated,No OS,1.96
+104,HP,Other,Notebook,15.6,Full HD,Other,4,HDD,Dedicated,Windows 10,2.1
+258,Lenovo,Other,2 in 1 Convertible,13.9,Full HD,i7,8,SSD,Integrated,Windows 10,1.37
